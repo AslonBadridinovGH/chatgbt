@@ -8,6 +8,7 @@ public class StringReverse {
             reversed.append(input.charAt(i));
         }
         return reversed.toString();
+
     }
 
     public static void main(String[] args) {

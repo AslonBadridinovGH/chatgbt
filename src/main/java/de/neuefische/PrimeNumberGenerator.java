@@ -11,6 +11,7 @@ public class PrimeNumberGenerator {
             if (isPrime(num)) {
                 primes.add(num);
             }
+
             num++;
         }
         return primes;
